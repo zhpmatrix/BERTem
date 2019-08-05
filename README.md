@@ -1,6 +1,6 @@
 ### 实现说明
 
-PyTorch实现，基于[huggingface](https://github.com/huggingface/pytorch-pretrained-BERT)的工作，PyTorch才是世界上最屌的框架，逃。
+主要实现文章前半部分的工作，PyTorch实现，基于[huggingface](https://github.com/huggingface/pytorch-pretrained-BERT)的工作，PyTorch才是世界上最屌的框架，逃。
 
 ### 实现参考
 
